@@ -47,4 +47,4 @@ checkpoint.txt
 sentences.txt
 
 # Optional: ignore notebook metadata
-*.ipynb
+
